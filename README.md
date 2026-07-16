@@ -4,7 +4,7 @@ An end-to-end Business Intelligence project that analyzes **103,024+ ride-bookin
 
 This project simulates an executive analytics solution for a ride-sharing platform by transforming raw transactional data into interactive dashboards and actionable business insights.
 
----
+
 
 ## 📌 Project Objectives
 
@@ -15,7 +15,7 @@ This project simulates an executive analytics solution for a ride-sharing platfo
 * Understand operational friction and cancellation patterns.
 * Build executive-level dashboards for business decision-making.
 
----
+
 
 ## 🛠 Tech Stack
 
