@@ -112,7 +112,7 @@ uber-marketplace-analytics
 
 Analyzes ride demand, booking fulfillment, and executive marketplace KPIs.
 
-![Executive Marketplace Overview](Dashboard%20Screenshots/01_Executive_Marketplace_Overview.png)
+![Executive Marketplace Overview](Dashboard%20_Screenshots/01_Executive_Marketplace_Overview.png)
 
 ---
 
