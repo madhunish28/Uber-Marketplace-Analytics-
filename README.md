@@ -17,7 +17,7 @@ This project simulates an executive analytics solution for a ride-sharing platfo
 
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **SQL (MySQL)** – Data modeling, analytical queries, and business views
 * **Microsoft Excel** – Data preparation and preprocessing
@@ -25,7 +25,7 @@ This project simulates an executive analytics solution for a ride-sharing platfo
 * **GitHub** – Project documentation and version control
 
 
-# 📊 Dashboard Architecture
+# Dashboard Architecture
 
 The solution is organized into **five executive dashboards**, each focusing on a different business function.
 
@@ -38,7 +38,7 @@ The solution is organized into **five executive dashboards**, each focusing on a
 | **Quality Assurance & Trust Analytics** | Driver ratings, customer ratings, and marketplace satisfaction metrics          |
 
 
-# 📈 Executive KPIs
+# Executive KPIs
 
 This dashboard includes executive-level business metrics such as:
 
@@ -52,7 +52,7 @@ This dashboard includes executive-level business metrics such as:
 * Average Driver Rating
 
 
-# 🔍 Business Questions Answered
+# Business Questions Answered
 
 The project answers the following key business questions:
 
@@ -81,7 +81,7 @@ The dashboard uncovers several operational and financial insights, including:
 * Benchmarked vehicle categories based on ride distance, customer satisfaction, and operational performance.
 
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 uber-marketplace-analytics
@@ -104,4 +104,47 @@ uber-marketplace-analytics
 │
 └── Documentation
 ```
+---
+
+# Dashboard Showcase
+
+## 1. Executive Marketplace Overview
+
+Analyzes ride demand, booking fulfillment, and executive marketplace KPIs.
+
+![Executive Marketplace Overview](Dashboard%20Screenshots/01_Executive_Marketplace_Overview.png)
+
+---
+
+## 2. Vehicle Portfolio Analytics
+
+Evaluates fleet performance, ride distance, and service quality across vehicle categories.
+
+![Vehicle Portfolio Analytics](Dashboard%20Screenshots/02_Vehicle_Portfolio_Analytics.png)
+
+---
+
+## 3. Revenue & Monetization Dynamics
+
+Tracks revenue generation, payment methods, and high-value customers.
+
+![Revenue & Monetization Dynamics](Dashboard%20Screenshots/03_Revenue_and_Monetization_Dynamics.png)
+
+---
+
+## 4. Marketplace Friction & Leakage
+
+Identifies cancellation patterns, operational bottlenecks, and revenue leakage sources.
+
+![Marketplace Friction & Leakage](Dashboard%20Screenshots/04_Marketplace_Friction_and_Leakage.png)
+
+---
+
+## 5. Quality Assurance & Trust Analytics
+
+Monitors customer satisfaction, driver performance, and marketplace trust metrics.
+
+![Quality Assurance & Trust Analytics](Dashboard%20Screenshots/05_Quality_Assurance_and_Trust_Analytics.png)
+
+---
 
