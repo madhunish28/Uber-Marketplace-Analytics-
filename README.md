@@ -66,3 +66,42 @@ The project answers the following key business questions:
 8. How much revenue is lost because of unsuccessful bookings?
 9. How do customer and driver ratings compare across the marketplace?
 10. Which operational bottlenecks most affect marketplace efficiency?
+
+
+# 💡 Key Business Insights
+
+The dashboard uncovers several operational and financial insights, including:
+
+* Identified significant **revenue leakage** resulting from customer cancellations, driver cancellations, and unsuccessful bookings.
+* Measured **Marketplace Fulfillment Rate** to evaluate overall platform efficiency and booking success.
+* Compared service quality across vehicle categories using **Customer Rating** and **Driver Rating** analytics.
+* Analyzed cancellation patterns to identify the primary causes of marketplace friction.
+* Evaluated ride demand trends and booking volume over time to support operational planning.
+* Identified the highest-value customers and payment methods contributing to overall revenue.
+* Benchmarked vehicle categories based on ride distance, customer satisfaction, and operational performance.
+
+
+# 📁 Repository Structure
+
+```text
+uber-marketplace-analytics
+│
+├── Data
+│   └── Bookings-July.xlsx
+│
+├── SQL
+│   └── Uber_Marketplace_Analytics_SQL.sql
+│
+├── Tableau
+│   └── Uber_Executive_Marketplace_Dashboard.twbx
+│
+├── Dashboard Screenshots
+│   ├── 01_Executive_Marketplace_Overview.png
+│   ├── 02_Vehicle_Portfolio_Analytics.png
+│   ├── 03_Revenue_and_Monetization_Dynamics.png
+│   ├── 04_Marketplace_Friction_and_Leakage.png
+│   └── 05_Quality_Assurance_and_Trust_Analytics.png
+│
+└── Documentation
+```
+
