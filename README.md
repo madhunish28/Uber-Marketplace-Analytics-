@@ -112,7 +112,7 @@ uber-marketplace-analytics
 
 Analyzes ride demand, booking fulfillment, and executive marketplace KPIs.
 
-![Executive Marketplace Overview](Dashboard%20Screenshots/01_Executive_Marketplace_Overview.png)
+![Overview.png](Dashboard%20Screenshots/01_Executive_Marketplace_Overview.png)
 
 ---
 
@@ -120,7 +120,7 @@ Analyzes ride demand, booking fulfillment, and executive marketplace KPIs.
 
 Evaluates fleet performance, ride distance, and service quality across vehicle categories.
 
-![Vehicle Portfolio Analytics](Dashboard%20Screenshots/02_Vehicle_Portfolio_Analytics.png)
+![Vehicle Type.png](Dashboard%20Screenshots/02_Vehicle_Portfolio_Analytics.png)
 
 ---
 
@@ -128,7 +128,7 @@ Evaluates fleet performance, ride distance, and service quality across vehicle c
 
 Tracks revenue generation, payment methods, and high-value customers.
 
-![Revenue & Monetization Dynamics](Dashboard%20Screenshots/03_Revenue_and_Monetization_Dynamics.png)
+![Revenue.png](Dashboard%20Screenshots/03_Revenue_and_Monetization_Dynamics.png)
 
 ---
 
@@ -136,7 +136,7 @@ Tracks revenue generation, payment methods, and high-value customers.
 
 Identifies cancellation patterns, operational bottlenecks, and revenue leakage sources.
 
-![Marketplace Friction & Leakage](Dashboard%20Screenshots/04_Marketplace_Friction_and_Leakage.png)
+![Cancellation.png](Dashboard%20Screenshots/04_Marketplace_Friction_and_Leakage.png)
 
 ---
 
@@ -144,7 +144,7 @@ Identifies cancellation patterns, operational bottlenecks, and revenue leakage s
 
 Monitors customer satisfaction, driver performance, and marketplace trust metrics.
 
-![Quality Assurance & Trust Analytics](Dashboard%20Screenshots/05_Quality_Assurance_and_Trust_Analytics.png)
+![Ratings.png](Dashboard%20Screenshots/05_Quality_Assurance_and_Trust_Analytics.png)
 
 ---
 
