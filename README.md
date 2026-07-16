@@ -104,7 +104,6 @@ uber-marketplace-analytics
 │
 └── Documentation
 ```
----
 
 # Dashboard Showcase
 
@@ -112,39 +111,35 @@ uber-marketplace-analytics
 
 Analyzes ride demand, booking fulfillment, and executive marketplace KPIs.
 
-![Overview.png](Dashboard%20Screenshots/01_Executive_Marketplace_Overview.png)
+![Executive Marketplace Overview](Dashboard%20Screenshots/Overall.png)
 
----
 
 ## 2. Vehicle Portfolio Analytics
 
 Evaluates fleet performance, ride distance, and service quality across vehicle categories.
 
-![Vehicle Type.png](Dashboard%20Screenshots/02_Vehicle_Portfolio_Analytics.png)
+![Vehicle Portfolio Analytics](Dashboard%20Screenshots/Vehicle%20Type.png)
 
----
 
 ## 3. Revenue & Monetization Dynamics
 
 Tracks revenue generation, payment methods, and high-value customers.
 
-![Revenue.png](Dashboard%20Screenshots/03_Revenue_and_Monetization_Dynamics.png)
+![Revenue & Monetization Dynamics](Dashboard%20Screenshots/Revenue.png)
 
----
 
 ## 4. Marketplace Friction & Leakage
 
 Identifies cancellation patterns, operational bottlenecks, and revenue leakage sources.
 
-![Cancellation.png](Dashboard%20Screenshots/04_Marketplace_Friction_and_Leakage.png)
+![Marketplace Friction & Leakage](Dashboard%20Screenshots/Cancellation.png)
 
----
 
 ## 5. Quality Assurance & Trust Analytics
 
 Monitors customer satisfaction, driver performance, and marketplace trust metrics.
 
-![Ratings.png](Dashboard%20Screenshots/05_Quality_Assurance_and_Trust_Analytics.png)
+![Quality Assurance & Trust Analytics](Dashboard%20Screenshots/Ratings.png)
 
----
+
 
