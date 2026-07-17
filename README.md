@@ -4,9 +4,12 @@ An end-to-end Business Intelligence project that analyzes **103,024+ ride-bookin
 
 This project simulates an executive analytics solution for a ride-sharing platform by transforming raw transactional data into interactive dashboards and actionable business insights.
 
+Live Interactive Dashboard: 
+https://public.tableau.com/views/UberAnalyticsDashboard_17842702301240/Overall?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-## 📌 Project Objectives
+
+## Project Objectives
 
 * Analyze ride-booking performance across the marketplace.
 * Identify revenue leakage caused by unsuccessful bookings.
@@ -68,7 +71,7 @@ The project answers the following key business questions:
 10. Which operational bottlenecks most affect marketplace efficiency?
 
 
-# 💡 Key Business Insights
+# Key Business Insights
 
 The dashboard uncovers several operational and financial insights, including:
 
